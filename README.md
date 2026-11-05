@@ -9,6 +9,8 @@ bit-accurate fixed-point PID/FPGA transaction reference model.
 The hardware module is a Python scoreboard model; RTL synthesis and device timing
 verification belong to the downstream test bench.
 
+* First Version designed as a baseline w/ the help of Codex. Further versions integrating marine vehicle hydrodynamics and spacecraft dynamics as well as further SITL testing capabilities are currently under development by myself.
+
 ## Development
 
 ```sh
